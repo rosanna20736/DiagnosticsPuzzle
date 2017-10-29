@@ -1,6 +1,6 @@
 ## Diagnostics Puzzle
 
-### Play at rosanna20736.github.io/DiagnosticsPuzzle
+### Play at https://rosanna20736.github.io/DiagnosticsPuzzle/
 
 **Controls:** Click mouse to change lever positions and press buttons.
 
